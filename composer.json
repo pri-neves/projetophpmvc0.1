@@ -1,0 +1,13 @@
+{
+    "name":"pri-neves/teste",
+    "description": "MVP de uma loja de jogos",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    },
+    "require": {
+        "symfony/routing": "^6.0",
+        "symfony/http-foundation": "^6.0"
+    }
+}
